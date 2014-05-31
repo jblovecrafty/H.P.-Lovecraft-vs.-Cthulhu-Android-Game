@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GameProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="intro_game_text">Welcome to Lovecraft vs. the Mythos</string>
+    <string name="intro_game_button_text">Play Game</string>
+    <string name="replay_game_button_text">Replay Game</string>
+    <string name="commit_action_button_text">Perform Action</string>
+    <string name="score_text">Your Score: </string>
+    <string name="starting_score">0</string>
+    <string name="went_insane_game_over_text">You Are Insane and Can No Longer Fight the Mythos</string>
+    <string name="died_game_over_text">You Died</string>
+    <string name="passed_game_over_text">You have Beaten the Mythos</string>
+    <string name="action_button_string">Perform Action</string>
+    <string name="sanity_text_label">Your Sanity: </string>
+    <string name="health_text_label">Your Health: </string>
+    <string name="health_text_enemy_label">Enemy Health: </string>
+    <string name="current_action_text_label">Your Current Action: </string>
+    <string name="current_action_text_start_text">None</string>
+    <string name="current_enemy_action_text_label">Enemy Current Action: </string>
+    <string name="current_enemy_action_text_start_text">None</string>
+    <string name="level_name_text">Level: </string>
+    <string name="action_name_text">Description: </string>
+    <string name="score_bundle_name">SCORE</string>
+    <string name="game_end_bundle_name">GAME_END_REASON</string>
+    <string name="title_activity_main_game">MainGameActivity</string>
+
+</resources>
